@@ -1,62 +1,79 @@
 ---
-title: "Yujun Lian"
-image: images/lianyujun_2025.png
+title: "Jishen Du"
+image: images/IMG_2753.png 
+page-footer:
+      left: |
+        Last updassa是ted:
+format: 
+  html:
+    grid:
+      body-width: 900px
 about:
-  id: hero-heading
+  id: hesaro-heading
   template: trestles
-  image-width: 12em
-  image-shape: round
+  image-width: 18em
+  image-shape: rounded
   links:
-    - icon: mailbox
-      text: arlionn@163.com
-      href: mailto:arlionn@163.com
-    - icon: github
-      text: arlionn
-      href: https://github.com/lianyujun
-    - icon: book
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
-    - icon: fingerprint
-      text: ORCID
-      href: https://orcid.org/0000-0002-2011-7535
-    - icon: brands zhihu
-      text: 知乎
-      href: https://www.zhihu.com/people/arlionn/
-    - icon: brands weibo
-      text: 微博
-      href: https://weibo.com/arlionn
-    - icon: brands xing
-      text: 小红书
-      href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
+    #- icon: github
+    #  text: arlionn
+    #  href: https://github.com/lianyujun
+    #- icon: book
+    #  text: Google Scholar
+    #  href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
+    #- icon: fingerprint
+    #  text: ORCID
+    #  href: https://orcid.org/0000-0002-2011-7535
+    #- icon: brands zhihu
+    #  text: 知乎
+    #  href: https://www.zhihu.com/people/arlionn/
+    #- icon: brands weibo
+    #  text: 微博
+    #  href: https://weibo.com/arlionn
+    #- icon: brands xing
+    #  text: 小红书
+    #  href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
     - icon: solid user
-      text: 工作主页
-      href: https://lingnan.sysu.edu.cn/faculty/LianYujun
-    - icon: brands home
-      text: 连享会
-      href: https://www.lianxh.cn
-    - icon: 📝
-      text: CV
-      href: CV.pdf  
+      text: My Rutgers Page
+      href: https://www.math.rutgers.edu/people/department-directory/detail/344-department-directory/1975-du-jishen
+      target: _blank
+    #- icon: brands home
+    #  text: 连享会
+    #  href: https://www.lianxh.cn
+    #- icon: 📝
+    #  text: CV
+    #  href: CV.pdf  
 ---
 
 ::: {#hero-heading}
 
-Professor Lian's research interests lie in the field of causal inference methods and stochastic frontier analysis, with specific applications in investment, trade credit, and supply chain dynamics. He has been actively researching topics such as supply chain finance, leverage adjustment, trade credit, and innovation. He teaches courses in Financial Econometrics and Applied Econometrics. 
+Hi! I am Jishen Du. Currently, I am currently a 5-th year Ph.D. student in Mathematics at <a href="https://math.rutgers.edu" target="_blank" rel="noopener noreferrer">Rutgers University</a>. My advisor is Prof. <a href="https://sites.math.rutgers.edu/~yzhuang/" target="_blank" rel="noopener noreferrer">Yi-Zhi Huang</a>.
 
-His teaching abilities have been highly regarded, as evidenced by his consecutive perfect teaching evaluations in the MBA corporate finance course over a span of three years. He was was awarded the title of *My Favorite Teacher* in 2022 by Lignan College. 
+I'm interested in **vertex operator algebras and their representation theory**, as the underlying algebraic/categorical structure of **two-dimensional conformal field theory**. In particular, I am interested in the construction of tensor-categorical structure in module categories of vertex operator algebras. I am also interested in topics that are related to this area. For more detail, please see my research statement (<a href="Research description.pdf" target="_blank" rel="noopener noreferrer">full version</a>, <a href="Research description (abridged).pdf" target="_blank" rel="noopener noreferrer">abridged version</a>).
 
-With his expertise in applied econometrics, he has made significant contributions to the [Stata](https://www.stata.com/) community by developing several popular packages, including `winsor2`, `xtbalance`, `bdiff`, and `sftt`, which have been widely used by researchers in various fields. He is one of the initiators of the Chinese Stata Users Group Meeting, which is one of the imporat meeting of Stata Corporation. He has been invited several times as a guest speaker to deliver keynote speeches ([2018th](https://www.stata.com/meeting/china18/), [2020th](https://www.stata.com/meeting/china20-Uone-Tech/), [2021th](https://www.stata.com/meeting/china21-Uone-Tech/), [2022th](https://www.stata.com/meeting/china22-Uone-Tech/), [2023th](https://www.stata.com/meeting/china23-Uone-Tech/)).
-
-He is also the founder of the website <https://www.lianxh.cn>, one of the largest academic websites in mainland China specializing in management and economics. Currently, it has published over 1300 articles introducing econometric and statistical methods. The WeChat official account lianxh_cn, established based on this website, has accumulated over 280,000 subscribers, with a total reading volume exceeding 20 million and a daily average reading volume exceeding 10,000.
+My current work is on orbifold theory. More specifically, I am constructing the ''$G$-twisted vertex/braided tensor category'' structure on the categories of modules of vertex operator algebras.
 
 
-## Background
 
-- Jan 2024 - Aug 2024: Visiting Professor, DeGroote School of Business, McMaster Univeristy. 
-- Aug 2015 - Jan 2016: Visiting Scholar, MIT Sloan School of Management, Massachusetts Institute of Technology
-- 2011 - Present: Associate Professor, Lingnan College, Sun Yat-sen University, specializing in Quantitative Economics
-- 2007-2010: Lecturer, Department of Finance, Lingnan College, Sun Yat-sen University
-- 2001-2007: Ph.D. in Economics, Xi'an Jiaotong University, China, specializing in Econometrics
-- 1997-2001: Bachelor of Engineering, Xi'an Jiaotong University, China, majoring in Materials Science.
+## Education
+
+- 2021 - Present: Ph.D., Mathematics, Rutgers University
+- 2017 - 2021: Bachelor, Mathematics, Beijing Normal University
+- 2016 - 2017: One-year study in Physics, Beijing Normal University
+
+## Information
+
+<table>
+  <tr>
+    <td>Email:</td>
+    <td> \ \ \ \ jd1422 at scarletmail dot rutgers dot edu (for research)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td> \ \ \ \ jd1422 at math dot rutgers dot edu (for teaching or other)</td>
+  </tr>
+  <tr>
+  <td>Office:</td><td>\ \ \ \ Hill center 626, Rutgers University - New Brunswick</td>
+  </tr>
+</table>
 
 :::

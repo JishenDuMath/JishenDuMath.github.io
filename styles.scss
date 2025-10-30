@@ -48,6 +48,8 @@ $navbar-bg: $theme-darkgreen1; /* 导航栏背景颜色 */
 $callout-color-note: $theme-darkgreen2; /* 提示框的注释颜色 */
 $callout-color-tip: $theme-darkgreen1; /* 提示框的小贴士颜色 */
 
+/* $content-width: 1000px */
+
 /* 字体设置 */
 @import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;1,400;1,600&display=swap');
@@ -147,4 +149,12 @@ h4 {
   border-bottom: 1px solid #E0A890;
   background-size: 1em;
   background-position: 1em 0.5em;
+}
+/* 覆盖 trestles/默认主题的标题元信息容器 */
+.quarto-title .quarto-title-meta,
+.quarto-title-meta,
+.quarto-title .quarto-title-meta-container,
+.quarto-title .quarto-title-meta-heading,
+.quarto-title .quarto-title-meta-contents {
+  display: none !important;
 }
