@@ -49,7 +49,7 @@ I expect to complete my Ph.D. in May 2026. I am applying for a postdoc position 
 
 I'm interested in **vertex operator algebras and their representation theory**, as the underlying algebraic/categorical structure of **two-dimensional conformal field theory**. In particular, I am interested in the construction of tensor-categorical structure in module categories of vertex operator algebras. I am also interested in topics that are related to this area. For more detail, please see my research statement (<a href="Research description.pdf" target="_blank" rel="noopener noreferrer">full version</a>, <a href="Research description (abridged).pdf" target="_blank" rel="noopener noreferrer">abridged version</a>).
 
-My current work is on orbifold theory. More specifically, I am constructing the ''$G$-twisted vertex/braided tensor category'' structure on the categories of modules of vertex operator algebras..
+My current work is on orbifold theory. More specifically, I am constructing the ''$G$-twisted vertex/braided tensor category'' structure on the categories of twisted modules of vertex operator algebras.
 
 
 
