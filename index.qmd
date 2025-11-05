@@ -1,9 +1,6 @@
 ---
 title: "Jishen Du"
 image: images/IMG_2753.png 
-page-footer:
-      left: |
-        Last updassa是ted:
 format: 
   html:
     grid:
