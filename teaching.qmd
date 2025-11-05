@@ -47,10 +47,12 @@ editor:
     <td><b>Math 251: Multivariable Calculus </b> </td>
     <td> \ \ \ Rutgers University</td><td style="text-align: right;">\ \ \ Fall 2025</td>
   </tr>
-  
-    
-    
-  
+  </table>
 
+## Mentor  
 
+  <table>
+      <tr>
+        <td><b>Basic $\infty$-category theory </b> </td><td>\ \ \ \ Direct Reading Program</td><td> \ \ \ Rutgers University</td><td style="text-align: right;">\ \ \ Summer 2024</td>
+      </tr>
   </table>
