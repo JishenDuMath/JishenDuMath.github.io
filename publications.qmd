@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-#editor: visual
+editor: visual
 ---
 
 ```{=html}
